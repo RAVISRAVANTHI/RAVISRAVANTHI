@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bodempudi.Ravisravanthi</h1>
+<h1 align="center">Hi 👋, I'm BODEMPUDI RAVISRAVANTHI</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | UI Designer</h3>
 
 - 🔭 I’m currently working on full-stack React projects  
