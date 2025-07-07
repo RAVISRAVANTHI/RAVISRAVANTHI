@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BODEMPUDI RAVISRAVANTHI</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | UI Designer</h3>
+<h3 align="center">Frontend Developer | React Enthusiast </h3>
 
-- 🔭 I’m currently working on full-stack React projects  
+- 🔭 I’m currently working on front proend project  
 - 🌱 Exploring Tailwind CSS, APIs, and Ionic Framework  
 - 👨‍💻 All my projects are available at [GitHub](https://github.com/RAVISRAVANTHI)  
 - 📫 Reach me at: **bodempudi.munnisrinivas@gmail.com**  
